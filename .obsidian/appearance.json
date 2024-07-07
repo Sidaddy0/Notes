@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Atom",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "textFontFamily": "Noto Sans Armenian",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items"
+  ]
+}

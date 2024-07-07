@@ -1,0 +1,71 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "lfGCVXGyF7QN5d0rqoYTc",
+      "name": "Pastel Red",
+      "value": "#ffb4b9"
+    },
+    {
+      "id": "84OpvuTuI_9Lnfq_z4p5V",
+      "name": "Pastel Orange",
+      "value": "#ffd7a0"
+    },
+    {
+      "id": "ewz3mPR5kk0Tga9EBzSm0",
+      "name": "Pastel Yellow",
+      "value": "#fffab4"
+    },
+    {
+      "id": "aKB2G90fRyae832yRff5L",
+      "name": "Pastel Green",
+      "value": "#b4ebd7"
+    },
+    {
+      "id": "9fB2uxNahUOiMMUAWyoW1",
+      "name": "Pastel Blue",
+      "value": "#c8cdeb"
+    },
+    {
+      "id": "tgbUPVsTH9v5hZ8ELUzOG",
+      "name": "Pastel Purple",
+      "value": "#d7afff"
+    },
+    {
+      "id": "Fx7K9RqiLQJ-qFD_40xs0",
+      "name": "Pastel Pink",
+      "value": "#ffc8dc"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "00 - Maps of Content",
+      "color": "lfGCVXGyF7QN5d0rqoYTc"
+    },
+    {
+      "path": "01 - Projects",
+      "color": "84OpvuTuI_9Lnfq_z4p5V"
+    },
+    {
+      "path": "02 - Resources",
+      "color": "ewz3mPR5kk0Tga9EBzSm0"
+    },
+    {
+      "path": "03 - Tasks",
+      "color": "aKB2G90fRyae832yRff5L"
+    },
+    {
+      "path": "04 - Daily",
+      "color": "9fB2uxNahUOiMMUAWyoW1"
+    },
+    {
+      "path": "05 - School",
+      "color": "tgbUPVsTH9v5hZ8ELUzOG"
+    },
+    {
+      "path": "07 - Archives",
+      "color": "Fx7K9RqiLQJ-qFD_40xs0"
+    }
+  ]
+}
